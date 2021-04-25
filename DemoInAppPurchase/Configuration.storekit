@@ -1,0 +1,29 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A6878094",
+      "localizations" : [
+        {
+          "description" : "TEST BOOK DESCRIPTION",
+          "displayName" : "TEST BOOK 01",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.DemoInAppPurchase.book.0000001",
+      "referenceName" : "BOOK0000001",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
